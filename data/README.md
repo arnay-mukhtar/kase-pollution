@@ -1,4 +1,9 @@
-# Data
+# Data (earlier src/ pipeline)
+
+> This folder documents inputs for the earlier Open-Meteo pipeline in `src/`, which built a
+> 977-day panel. The paper's 1,042-day panel and its data files are in `replication/` and on
+> Zenodo (https://doi.org/10.5281/zenodo.22014193).
+
 
 Scripts `01` and `02` fetch pollution and meteorology from public APIs and
 write their output here. The index series has to be supplied manually.
