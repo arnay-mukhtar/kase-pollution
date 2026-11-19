@@ -21,6 +21,8 @@ rather than stopping at insignificance.
 **Paper:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7310078
 **Author:** Arnay Mukhtar (ORCID [0009-0003-5546-0418](https://orcid.org/0009-0003-5546-0418))
 **Replication archive:** https://doi.org/10.5281/zenodo.22014193
+**OSF project:** [osf.io/7k9gy](https://osf.io/7k9gy), DOI [10.17605/OSF.IO/7K9GY](https://doi.org/10.17605/OSF.IO/7K9GY)
+
 
 ---
 
