@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and the replication archive."
+title: "Replication data and code for: Air Pollution and Equity Returns in an Emerging Market: Evidence from Kazakhstan"
+authors:
+  - family-names: Mukhtar
+    given-names: Arnay
+    orcid: "https://orcid.org/0009-0003-5546-0418"
+    email: mukhtarovarnay@gmail.com
+license: MIT
+doi: "10.5281/zenodo.22014193"
+date-released: 2026-08-20
+repository-code: "https://github.com/arnay-mukhtar/kase-pollution"
+keywords:
+  - air pollution
+  - PM2.5
+  - stock returns
+  - Kazakhstan
+  - instrumental variables
+  - equivalence testing
+preferred-citation:
+  type: article
+  title: "Air Pollution and Equity Returns in an Emerging Market: Evidence from Kazakhstan"
+  authors:
+    - family-names: Mukhtar
+      given-names: Arnay
+      orcid: "https://orcid.org/0009-0003-5546-0418"
+  year: 2026
+  doi: "10.2139/ssrn.7310078"
+  notes: "Working paper. OSF project: https://doi.org/10.17605/OSF.IO/7K9GY"
